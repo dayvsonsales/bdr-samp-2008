@@ -1,11 +1,13 @@
-# [BDR]RPG Rules Brasil
+# [BDR] RPG Rules Brasil
+
 Repositório com o script do clássico server online entre 2005~2010  
+
 Versão de 2008  
 
 Para compilar é necessário as libs do SA-MP 0.2x  
 Dificilmente funciona hoje em dia na 0.3x  
 
-#Créditos originais
+# Créditos originais
   
 Criador do Game Mode: [BDR]Mac[BS]  
 Copyright © 2005-2008, [BDR] Clan  
